@@ -1,7 +1,7 @@
 Soundcloud Scraper
 =================
 
-Short bash script to scrape soundcloud tracks using a developer key and cURL.
+This is a short bash script to scrape soundcloud tracks using a developer key and cURL.
 
 To use:
 1. Modify `songs.txt` to specify the songs you want to download.
